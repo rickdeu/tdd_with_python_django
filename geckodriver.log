@@ -385,3 +385,147 @@ DevTools listening on ws://127.0.0.1:45245/devtools/browser/3dbe8e7d-ea14-4087-9
 1666282842811	Marionette	INFO	Stopped listening on port 38759
 Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
 console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666284833607	geckodriver	INFO	Listening on 127.0.0.1:53791
+1666284833614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegHC2iZ"
+1666284834799	Marionette	INFO	Marionette enabled
+1666284834805	Marionette	INFO	Listening on port 41669
+Read port: 41669
+WebDriver BiDi listening on ws://127.0.0.1:43459
+1666284835067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegHC2iZ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43459/devtools/browser/394f2625-65d6-48a7-b740-22956eb65e2c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8000."
+1666284838408	Marionette	INFO	Stopped listening on port 41669
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666285022216	geckodriver	INFO	Listening on 127.0.0.1:54543
+1666285022223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewmmSj3"
+1666285023395	Marionette	INFO	Marionette enabled
+1666285023401	Marionette	INFO	Listening on port 38397
+Read port: 38397
+WebDriver BiDi listening on ws://127.0.0.1:60137
+1666285023660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewmmSj3/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:60137/devtools/browser/1308ba7d-ff92-4c3a-8a6a-33f6cab62127
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8000."
+1666285036243	Marionette	INFO	Stopped listening on port 38397
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666285240550	geckodriver	INFO	Listening on 127.0.0.1:36191
+1666285240557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileENZgZG"
+1666285241768	Marionette	INFO	Marionette enabled
+1666285241774	Marionette	INFO	Listening on port 37207
+Read port: 37207
+WebDriver BiDi listening on ws://127.0.0.1:56139
+1666285242035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileENZgZG/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:56139/devtools/browser/0de8eb72-132a-414c-8d6b-de83b319af77
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8000."
+1666285254382	Marionette	INFO	Stopped listening on port 37207
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666286028043	geckodriver	INFO	Listening on 127.0.0.1:46107
+1666286028051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyGBfIL"
+1666286029193	Marionette	INFO	Marionette enabled
+1666286029200	Marionette	INFO	Listening on port 46291
+Read port: 46291
+WebDriver BiDi listening on ws://127.0.0.1:40635
+1666286029447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyGBfIL/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40635/devtools/browser/ea6daebb-6c05-4638-ac54-943b2593b358
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8000."
+1666286032767	Marionette	INFO	Stopped listening on port 46291
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666287050429	geckodriver	INFO	Listening on 127.0.0.1:40863
+1666287050436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38449" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCESTEv"
+1666287051620	Marionette	INFO	Marionette enabled
+1666287051627	Marionette	INFO	Listening on port 36143
+Read port: 36143
+WebDriver BiDi listening on ws://127.0.0.1:38449
+1666287051884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCESTEv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38449/devtools/browser/5e88dbc1-95ee-4a7d-802d-0ab61fa4af64
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8000."
+1666287056244	Marionette	INFO	Stopped listening on port 36143
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666287196873	geckodriver	INFO	Listening on 127.0.0.1:40071
+1666287196881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileubFg1L"
+1666287198068	Marionette	INFO	Marionette enabled
+1666287198074	Marionette	INFO	Listening on port 39113
+Read port: 39113
+WebDriver BiDi listening on ws://127.0.0.1:37973
+1666287198327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileubFg1L/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:37973/devtools/browser/beb26553-4c10-445f-b8bb-a99dc380182b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8000."
+1666287201619	Marionette	INFO	Stopped listening on port 39113
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666287340475	geckodriver	INFO	Listening on 127.0.0.1:53731
+1666287340482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40539" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRwyjAc"
+1666287341713	Marionette	INFO	Marionette enabled
+1666287341719	Marionette	INFO	Listening on port 33693
+Read port: 33693
+WebDriver BiDi listening on ws://127.0.0.1:40539
+1666287341974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRwyjAc/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40539/devtools/browser/bf0e62a3-d1a6-490b-8b91-9967af32adec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8000."
+1666287345305	Marionette	INFO	Stopped listening on port 33693
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666287460615	geckodriver	INFO	Listening on 127.0.0.1:45527
+1666287460622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewpFaLI"
+1666287461816	Marionette	INFO	Marionette enabled
+1666287461822	Marionette	INFO	Listening on port 46505
+Read port: 46505
+WebDriver BiDi listening on ws://127.0.0.1:35467
+1666287462078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewpFaLI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:35467/devtools/browser/aba5e7af-cba4-4d16-9c6e-3e4b73a2a804
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8000."
+1666287465428	Marionette	INFO	Stopped listening on port 46505
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666287616639	geckodriver	INFO	Listening on 127.0.0.1:39545
+1666287616646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileI3v4d3"
+1666287617844	Marionette	INFO	Marionette enabled
+1666287617851	Marionette	INFO	Listening on port 42359
+Read port: 42359
+WebDriver BiDi listening on ws://127.0.0.1:37421
+1666287618118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI3v4d3/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:37421/devtools/browser/c22cb419-9f28-48b1-8304-d51aae4071d5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8000."
+1666287621492	Marionette	INFO	Stopped listening on port 42359
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
