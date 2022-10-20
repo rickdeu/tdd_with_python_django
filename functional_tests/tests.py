@@ -80,9 +80,6 @@ class NewVisitorTest(LiveServerTestCase):
         # satisfied, they both go back to sleep
 
 
-
-
-
     
     def test_can_start_a_list_and_retrieve_it_later(self):
         # Edith has heard about a cool new online to-do app. She goes
