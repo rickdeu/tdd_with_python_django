@@ -1,9 +1,7 @@
 import time
-from xml.dom.minidom import Entity
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-import unittest
 from django.test import LiveServerTestCase
 from selenium.common.exceptions import WebDriverException
 
@@ -20,11 +18,12 @@ class NewVisitorTest(LiveServerTestCase):
                 table = self.browser.find_element(By.ID, 'id_list_table')
                 rows = table.find_elements(By.TAG_NAME, 'tr')
                 self.assertIn(row_text, [row.text for row in rows])
-                return
+                return 
             except (AssertionError, WebDriverException) as e:
                 if time.time() - start_time > MAX_WAIT:
                     raise e
                 time.sleep(0.5)
+
     
     def test_can_start_a_list_for_one_user(self):
         # Edith has heard about a cool new online to-do app. She goes
