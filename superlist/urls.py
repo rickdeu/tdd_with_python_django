@@ -18,5 +18,6 @@ from django.urls import path, include
 from lists import views
 
 urlpatterns = [
+    path('admin/', admin.site.urls),
     path('', include('lists.urls'),),
 ]
